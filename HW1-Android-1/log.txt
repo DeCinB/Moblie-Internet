@@ -1,0 +1,22 @@
+2020-03-21 14:49:05.709 7633-7633/com.example.helloworld I/zygote:     at void com.example.helloworld.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:21)
+2020-03-21 14:49:05.710 7633-7633/com.example.helloworld I/zygote:     at void com.example.helloworld.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:21)
+2020-03-21 14:49:05.712 7633-7633/com.example.helloworld I/zygote:     at void com.example.helloworld.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:21)
+2020-03-21 14:49:05.713 7633-7633/com.example.helloworld I/zygote:     at void com.example.helloworld.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:21)
+2020-03-21 14:49:05.714 7633-7633/com.example.helloworld I/zygote:     at void com.example.helloworld.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:21)
+2020-03-21 14:49:05.715 7633-7633/com.example.helloworld I/zygote:     at void com.example.helloworld.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:21)
+2020-03-21 14:49:44.121 7633-7633/com.example.helloworld D/MainActivity: choose
+2020-03-21 14:50:00.517 7633-7633/com.example.helloworld D/MainActivity: choose
+2020-03-21 14:50:02.233 7633-7633/com.example.helloworld D/MainActivity: choose
+2020-03-21 14:50:19.244 7633-7633/com.example.helloworld D/MainActivity: choose
+2020-03-21 14:50:20.987 7633-7633/com.example.helloworld D/MainActivity: click button
+2020-03-21 14:50:20.998 7633-7633/com.example.helloworld D/MainActivity: Gryffindor
+2020-03-21 14:50:36.822 7633-7633/com.example.helloworld D/MainActivity: choose
+2020-03-21 14:50:37.281 7633-7633/com.example.helloworld D/MainActivity: click button
+2020-03-21 14:50:37.295 7633-7633/com.example.helloworld D/MainActivity: Slytherin
+2020-03-21 14:51:22.570 7633-7633/com.example.helloworld D/MainActivity: choose
+2020-03-21 14:51:43.241 7633-7633/com.example.helloworld D/MainActivity: choose
+2020-03-21 14:51:44.674 7633-7633/com.example.helloworld D/MainActivity: click button
+2020-03-21 14:51:44.683 7633-7633/com.example.helloworld D/MainActivity: Ravenclaw
+2020-03-21 14:52:26.411 7633-7633/com.example.helloworld D/MainActivity: choose
+2020-03-21 14:52:31.987 7633-7633/com.example.helloworld D/MainActivity: click button
+2020-03-21 14:52:32.047 7633-7633/com.example.helloworld D/MainActivity: Hufflepuff
