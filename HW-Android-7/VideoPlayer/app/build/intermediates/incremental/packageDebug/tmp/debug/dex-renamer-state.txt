@@ -1,0 +1,4 @@
+#Tue May 12 16:47:57 CST 2020
+base.0=C\:\\Users\\14814\\Desktop\\mobile internet\\Chapter-7-master\\assignment\\VideoPlayer\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
