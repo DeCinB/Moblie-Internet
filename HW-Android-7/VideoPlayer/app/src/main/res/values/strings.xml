@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="start_time">00:00/00:00</string>
+
+</resources>
